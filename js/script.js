@@ -310,7 +310,7 @@ figure img {
         margin-left: 20px;
         margin-bottom: 10px;
         height: 300px;
-        width: 270px;
+        width: 270px
     }
 
     .welcome {
